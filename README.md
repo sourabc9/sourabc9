@@ -1,13 +1,8 @@
 ## Hey!
 
-My name is Abeer. I'm a software developer and I take special interest in databases, web development, software design , DIY projects and more.
-I like to work on challenging projects and I enjoy writing about it. I occasionally make myself available for contract work and consultancy.
+My name is Sourab. I'm a software developer and I take special interest in Machine Learning, web development, software design , DIY projects and more.
+I like to work on challenging projects and I enjoy writing about it. I occasionally make myself available for contract work.
 
-<!---
-     My name is Abeer. I'm a software developer and I take special interest in databases, web development, software design , DIY projects and more. 
-     
-     I like to work on challenging projects and I enjoy writing about it. I occasionally make myself available for contract work and consultancy. 
--->
 
 ## Languages and Tools
 <p align="left">
@@ -31,6 +26,5 @@ I like to work on challenging projects and I enjoy writing about it. I occasiona
 
 ## Contact
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/readyplayerlink)](https://twitter.com/readyplayerlink)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abeer-sewak/)](https://www.linkedin.com/in/abeer-sewak/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abeer.sewak@gmail.com)](mailto:abeer.sewak@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourab-charka/)](https://www.linkedin.com/in/sourab-charka/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s.charka52@gmail.com)](mailto:s.charka52@gmail.com)
